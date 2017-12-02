@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1507124608 source:d:\second year\computer programming - mike mahon\exercises\exercise 6\main.cpp
+	<iostream>
+
+1508936506 source:d:\second year\computer programming - mike mahon\exercises\exercises c++\exercise 6 - decimal-binary conversion\main.cpp
+	<iostream>
+	<math.h>
+
